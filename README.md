@@ -1,8 +1,8 @@
 # Overview
 
-This repository is dedicate do concentrate studies about software system and infrastructure management with linux.
+This repository is dedicated to concentrate studies about software system and infrastructure management with linux.
 
-Linux is a common and powerful OS wich provide a great set of technologies to manage and host servers.
+Linux is a common and powerful OS which provides a great set of technologies to manage and host servers.
 
 Main common distributions are:
 
