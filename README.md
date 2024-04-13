@@ -13,6 +13,10 @@ Main common distributions are:
 
 > and else more available flavors distros, used for specific workflow use cases such as audiovisual editing and etc...
 
+## Summary
+
+- [File System](./topics/file_system.md)
+
 ## Linux Kernel, Stable and Rolling Release Distros
 
 ![Kernel, and Common Distros](./images/kernel_and_common_distros.png)
