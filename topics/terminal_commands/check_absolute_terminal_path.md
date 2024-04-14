@@ -1,6 +1,6 @@
 [Back to Start](../../README.md)
 
-# Linux Hardware Specs
+# Terminal Path
 
 **Check absolute folder path**
 
