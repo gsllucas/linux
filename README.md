@@ -6,16 +6,18 @@ Linux is a common and powerful OS which provides a great set of technologies to 
 
 Main common distributions are:
 
-- [Ubuntu](https://ubuntu.com/download)
-- [Fedora](https://fedoraproject.org/)
-- [Debian](https://www.debian.org/index.pt.html)
-- [Arch Linux](https://archlinux.org/)
+- Ubuntu: https://ubuntu.com/download
+- Fedora: https://fedoraproject.org/
+- Debian: https://www.debian.org/index.pt.html
+- Arch Linux: https://archlinux.org/
 
 > and else more available flavors distros, used for specific workflow use cases such as audiovisual editing and etc...
 
 ## Summary
 
-- [File System](./topics/file_system.md)
+- [File System](./topics/file_system/file_system.md)
+- [Terminal Commands](./topics/terminal_commands/hardware_specs_commands.md)
+  - [Hardware Specifications](/topics/terminal_commands/hardware_specs_commands.md)
 
 ## Linux Kernel, Stable and Rolling Release Distros
 
