@@ -18,6 +18,7 @@ Main common distributions are:
 - [File System](./topics/file_system/file_system.md)
 - [Terminal Commands](./topics/terminal_commands/hardware_specs_commands.md)
   - [Hardware Specifications](/topics/terminal_commands/hardware_specs_commands.md)
+  - [pwd](/topics/terminal_commands/pwd.md)
 
 ## Linux Kernel, Stable and Rolling Release Distros
 
