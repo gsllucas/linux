@@ -13,7 +13,7 @@ sudo apt install speedtest-cli -y
 Run:
 
 ```
-sudo speedtest-cli -y
+sudo speedtest-cli
 ```
 
 Output:
